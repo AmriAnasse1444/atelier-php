@@ -24,20 +24,6 @@ Il met en évidence le fonctionnement d’un serveur web (Apache) et l’exécut
 - Générer du contenu HTML à partir de variables et de tableaux PHP.
 
 ---
-
-## 📂 Structure du projet
-Atelier1-PHP/
-│
-├── src/
-│   ├── tp1.php
-│   ├── page1.php
-│   └── liste.php
-│
-├── docs/
-│   └── CompteRendu.pdf
-│
-├── README.md
-└── .gitignore
 ## 🛠️ Technologies utilisées
 
 - PHP  
@@ -49,7 +35,7 @@ Atelier1-PHP/
 ## ▶️ Exécution du projet
 1. Placer le dossier du projet dans : C:\xampp\htdocs
 2. Démarrer le serveur Apache via le panneau de contrôle XAMPP
-3. Accéder via le navigateur : http://localhost/Premierprojet/tp1.php
+3. Accéder via le navigateur : http://localhost/php_project/tp1.php
 ## 🔎 Notions abordées
 
 - Exécution côté serveur  
