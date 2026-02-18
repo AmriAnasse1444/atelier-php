@@ -26,11 +26,18 @@ Il met en évidence le fonctionnement d’un serveur web (Apache) et l’exécut
 ---
 
 ## 📂 Structure du projet
-php_project/
+Atelier1-PHP/
 │
-├── tp1.php → Test de base du fonctionnement PHP
-├── page1.php → Page dynamique utilisant une variable PHP
-└── liste.php → Génération d’une liste HTML à partir d’un tableau PHP
+├── src/
+│   ├── tp1.php
+│   ├── page1.php
+│   └── liste.php
+│
+├── docs/
+│   └── CompteRendu.pdf
+│
+├── README.md
+└── .gitignore
 ## 🛠️ Technologies utilisées
 
 - PHP  
