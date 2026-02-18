@@ -1,4 +1,4 @@
 <?php
 echo "<h1>Bienvenue dans votre environnement PHP !</h1>";
-echo "<hp>Le code PHP a ete interprete par le serveur Apache. </p>";
+echo "<p>Le code PHP a ete interprete par le serveur Apache.</p>";
 ?>
