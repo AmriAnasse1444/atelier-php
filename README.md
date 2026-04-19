@@ -45,5 +45,4 @@ Il met en évidence le fonctionnement d’un serveur web (Apache) et l’exécut
 ## Auteur
 
 Anasse Amri  
-EL HOUSSINE ASSOUMA
 Filière ILCS
